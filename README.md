@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JoaooffZz/session_auth_auto/main/assets/session_auth_auto_logo.png" width="300px" alt="Session Auth Auto Logo" onerror="this.style.display='none'">
+  <img src="assets/logo.png" width="300px" alt="Session Auth Auto Logo">
 </p>
 <h2 align="center">Transparent and Automated Session & Token Management for Flutter</h2>
 
